@@ -15,3 +15,7 @@ Retention Rates: Tracked user retention patterns across monthly cohorts.<br>
 ## Conclusion
 This analysis offers insights into user engagement, providing actionable data for improving conversion and retention strategies.
 For detailed insights and data, see the full analysis in the [Google Sheet](https://docs.google.com/spreadsheets/d/1hz8Vw50FPa2vQUMyORQ092PW_23zBWuYIza7hpq0h3E/edit?usp=sharing) or download the [xlsx file](https://github.com/tsztin0217/Data-projects-TripleTen-/blob/0b7c6655c0d722f523e725c7cf7f64fa136b795a/02%20Business%20Analytics/Business%20Analytics%20Project.xlsx) from this repository.
+## Sample Pictures
+![Sample 1](https://i.imgur.com/PpYJV44.png)
+![Sample 2](https://i.imgur.com/UXz8TnD.png)
+
