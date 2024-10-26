@@ -6,4 +6,4 @@ Projects I worked on while attending the Business Intelligence Analytics TripleT
 | 2 | [Business Analytics](https://github.com/tsztin0217/) | |
 | 3 | Superstore Sales Analysis|
 | 4 | Superstore Returns Analysis|
-| 5 |Olympics: A Journey Towards Gender Equality|
+| 5 |[Olympics: A Journey Towards Gender Equality](https://github.com/tsztin0217/Data-projects-TripleTen-/tree/4ee16c440c0232465ca038a7d09c973bd7266169/05%20Olympics)|
