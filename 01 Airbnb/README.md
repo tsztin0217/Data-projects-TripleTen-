@@ -18,3 +18,6 @@ Revenue Estimates: Annual revenue projections for targeted properties based on m
 ## Conclusion
 This analysis offers data-driven recommendations for property investments in Manhattan’s vacation rental market, providing valuable insights for improving occupancy rates and maximizing revenue potential.<br>
 For detailed insights and data, see the full analysis in the [Google Sheet](https://docs.google.com/spreadsheets/d/1q-8wxAGhg-lj4NPN8hLlRLODcDiU2QrfPfKZDRpLHlg/edit?usp=sharing) or download the [xlsx file](https://github.com/tsztin0217/Data-projects-TripleTen-/blob/e233c9e55e7483f7bdd6e9d4a24da903efc70a86/01%20Airbnb/Project%20NYC%20Airbnb%20Vacation%20Rental%20Analysis.xlsx) from this repository.
+## Sample Pictures
+![Sample1](https://i.imgur.com/lPts5Mn.png)
+![Sample2](https://i.imgur.com/3OYjiGr.png)
